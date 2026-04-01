@@ -1,6 +1,7 @@
 <h1>DevSort - Sorteador de Números</h1>
 <br>
-<a href=""/><p>Site</p>
+<p>Acesse no link:</p>
+<a href="https://caioikegami.github.io/DevSorteioJS/"/><p>DevSort - Sorteador</p>
 <h2>Esse foi o segundo projeto com JavaScript que aprendi no <a href="https://www.devclub.com.br/">DevClub</a></h2>
 <br>
 <h2>Tecnologias utilizadas:</h2>
